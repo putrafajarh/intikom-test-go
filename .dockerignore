@@ -1,0 +1,25 @@
+# Start Generation Here
+# Ignore the binary executable
+intikom-test-go
+
+# Ignore the Go module cache
+/go/pkg/mod/
+
+# Ignore the Go build cache
+/root/.cache/go-build/
+
+# Ignore environment files
+.env
+
+# Ignore vendor directory
+/vendor/
+
+# Ignore test coverage files
+*.cov
+*.out
+
+# Ignore IDE/editor specific files
+*.idea/
+*.vscode/
+*.swp
+# End Generation Here
